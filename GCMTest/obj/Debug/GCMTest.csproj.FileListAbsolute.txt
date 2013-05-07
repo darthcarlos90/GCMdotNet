@@ -1,0 +1,12 @@
+c:\users\carlos\documents\visual studio 2012\Projects\GCMTest\GCMTest\bin\Debug\GCMTest.exe.config
+C:\Users\Carlos\documents\visual studio 2012\Projects\GCMTest\GCMTest\obj\Debug\GCMTest.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\documents\visual studio 2012\Projects\GCMTest\GCMTest\bin\Debug\GCMTest.exe
+C:\Users\Carlos\documents\visual studio 2012\Projects\GCMTest\GCMTest\bin\Debug\GCMTest.pdb
+C:\Users\Carlos\documents\visual studio 2012\Projects\GCMTest\GCMTest\obj\Debug\GCMTest.exe
+C:\Users\Carlos\documents\visual studio 2012\Projects\GCMTest\GCMTest\obj\Debug\GCMTest.pdb
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\GCMTest\GCMTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\GCMTest\GCMTest\bin\Debug\PushSharp.Android.dll
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\GCMTest\GCMTest\bin\Debug\PushSharp.Core.dll
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\GCMTest\GCMTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\GCMTest\GCMTest\bin\Debug\PushSharp.Android.pdb
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\GCMTest\GCMTest\bin\Debug\PushSharp.Core.pdb
