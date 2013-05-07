@@ -43,7 +43,7 @@ namespace GCMTest
             var applicationID = "AIzaSyCgbcxXlsnATnvFsjxyBkUSARGEjnKXQDo";
 
 
-            var SENDER_ID = "808826364105";
+            var SENDER_ID = "senderId";
             var value = mensaje;
             
             WebRequest tRequest;
